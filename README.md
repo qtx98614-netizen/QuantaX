@@ -1,0 +1,2 @@
+# QuantaX
+QuantumCoin

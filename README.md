@@ -89,6 +89,7 @@ Please open an issue or pull request to discuss improvements.
 ---
 
 📧 Contact
+qtx98614@gmail.com
 
-Quantax Core Team
-GitHub: Your Repo Link
+Quantax Core Team 
+GitHub: https://qtx98614-netizen.github.io/QuantaX/
